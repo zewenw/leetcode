@@ -16,8 +16,8 @@
 |  0003  |  [无重复字符的最长子串](/solution/0000-0099/0003.Longest%20Substring%20Without%20Repeating%20Characters/README.md)  |  `哈希表`,`字符串`,`滑动窗口`  |  中等  | done  |
 |  0004  |  [寻找两个正序数组的中位数](/solution/0000-0099/0004.Median%20of%20Two%20Sorted%20Arrays/README.md)  |  `数组`,`二分查找`,`分治`  |  困难  |    |
 |  0005  |  [最长回文子串](/solution/0000-0099/0005.Longest%20Palindromic%20Substring/README.md)  |  `字符串`,`动态规划`  |  中等  |  done  |
-|  0006  |  [N 字形变换](/solution/0000-0099/0006.Zigzag%20Conversion/README.md)  |  `字符串`  |  中等  |    |
-|  0007  |  [整数反转](/solution/0000-0099/0007.Reverse%20Integer/README.md)  |  `数学`  |  中等  |    |
+|  0006  |  [N 字形变换](/solution/0000-0099/0006.Zigzag%20Conversion/README.md)  |  `字符串`  |  中等  |  done  |
+|  0007  |  [整数反转](/solution/0000-0099/0007.Reverse%20Integer/README.md)  |  `数学`  |  中等  | done   |
 |  0008  |  [字符串转换整数 (atoi)](/solution/0000-0099/0008.String%20to%20Integer%20%28atoi%29/README.md)  |  `字符串`  |  中等  |    |
 |  0009  |  [回文数](/solution/0000-0099/0009.Palindrome%20Number/README.md)  |  `数学`  |  简单  |    |
 |  0010  |  [正则表达式匹配](/solution/0000-0099/0010.Regular%20Expression%20Matching/README.md)  |  `递归`,`字符串`,`动态规划`  |  困难  |    |
